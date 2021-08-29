@@ -15,13 +15,13 @@ https://rsg.run/fhi
 # Cách cài đặt:
 Sao chép và Ctrl + V để dán rồi nhấn Enter
 ```
-wget -O cai dat.sh https://rsg.run/fhj
+wget -O caidat.sh https://rsg.run/fhk
 ```
 ```
-chmod +x cai dat.sh
+chmod +x caidat.sh
 ```
 ```
-./cai dat.sh
+./caidat.sh
 ```
 Done! chúc may mắn.
 
